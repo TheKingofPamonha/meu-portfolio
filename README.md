@@ -19,7 +19,6 @@ Acompanhe o desenvolvimento do projeto:
 - [ ] Tornar o layout 100% responsivo (Mobile First)
 
 ## 💡 Como visualizar
-Você pode acessar a versão ao vivo deste projeto clicando aqui: [Coloque o link do GitHub Pages aqui depois]
-
+Você pode acessar a versão ao vivo deste projeto clicando aqui: https://thekingofpamonha.github.io/meu-portfolio/
 ---
 Desenvolvido com dedicação por Davi.
